@@ -31,20 +31,35 @@ medium : https://medium.com/javarevisited/ultimate-leetcode-challenge-blind-list
 Important topic-wise playlist on youtube [BEST]💯💯
 
 DSA full course-https://lnkd.in/drfYia2j
+
 ARRAYS - https://lnkd.in/dG69DAEZ
+
 STRING - https://lnkd.in/dxhW3xNf
+
 Dynamic Programming-https://lnkd.in/dGpVEHg8
+
 Recursion-https://lnkd.in/dv6XUNyP
+
 Heap-https://lnkd.in/dZBJdr2W
+
 SLIDING WINDOW -https://lnkd.in/dxXNKFgQ
+
 Binary Search-https://lnkd.in/dCQRSiXq
+
 Stack-https://lnkd.in/dYqeH7ft
+
 HASHING -https://lnkd.in/dM77crfV
+
 Binary Trees-https://lnkd.in/dFSXYYFt
+
 Graph-https://lnkd.in/dfmi74sU
+
 TRIE -https://lnkd.in/d3e-wm_J
+
 SEGMENT TREE -https://lnkd.in/dytGUaGB
+
 COMPETITIVE PROGRAMMING ->(https://lnkd.in/d3z6jKE4)
+
 
 
 YouTube Channels for Learning DSA [BEST]💯💯
