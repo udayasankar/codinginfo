@@ -78,3 +78,5 @@ YouTube Channels for Learning DSA [BEST]💯💯
 
 DSA SDE ProblemSheet - https://lnkd.in/d-ncCdXH
 
+Top LeetCode Patterns for FAANG Coding Interviews : https://designgurus.org/blog/top-lc-patterns
+
