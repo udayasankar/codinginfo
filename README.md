@@ -1,5 +1,8 @@
 # codinginfo
 
+https://github.com/jwasham/coding-interview-university
+
+
 Top Books for programmers:
 
 𝟭. 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗱𝗲, Robert C. Martin
@@ -85,18 +88,28 @@ Top LeetCode Patterns for FAANG Coding Interviews : https://designgurus.org/blog
 https://designgurus.org/blog/top-lc-patterns
 
 ********************************************************************************************************************************************************************GIT REPOS for reference :
+
 https://github.com/codecrafters-io/build-your-own-x
+
 https://github.com/EbookFoundation/free-programming-books
+
 https://github.com/ohmyzsh/ohmyzsh
+
 https://github.com/github/gitignore
+
 https://github.com/donnemartin/system-design-primer
+
 https://github.com/public-apis/public-apis
+
 https://github.com/jlevy/the-art-of-command-line
+
 https://github.com/trekhleb/javascript-algorithms
+
 https://github.com/kamranahmedse/developer-roadmap
 
+
 ********************************************************************************************************************************************************************
-https://github.com/jwasham/coding-interview-university
+
 
 
 
