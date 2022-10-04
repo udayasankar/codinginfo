@@ -60,6 +60,8 @@ SEGMENT TREE -https://lnkd.in/dytGUaGB
 
 COMPETITIVE PROGRAMMING ->(https://lnkd.in/d3z6jKE4)
 
+Coding interview university : https://github.com/jwasham/coding-interview-university
+
 
 
 YouTube Channels for Learning DSA [BEST]💯💯
@@ -81,4 +83,20 @@ DSA SDE ProblemSheet - https://lnkd.in/d-ncCdXH
 Top LeetCode Patterns for FAANG Coding Interviews : https://designgurus.org/blog/top-lc-patterns
 
 https://designgurus.org/blog/top-lc-patterns
+
+********************************************************************************************************************************************************************GIT REPOS for reference :
+https://github.com/codecrafters-io/build-your-own-x
+https://github.com/EbookFoundation/free-programming-books
+https://github.com/ohmyzsh/ohmyzsh
+https://github.com/github/gitignore
+https://github.com/donnemartin/system-design-primer
+https://github.com/public-apis/public-apis
+https://github.com/jlevy/the-art-of-command-line
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/kamranahmedse/developer-roadmap
+
+********************************************************************************************************************************************************************
+https://github.com/jwasham/coding-interview-university
+
+
 
