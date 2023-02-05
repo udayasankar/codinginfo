@@ -1,5 +1,16 @@
 # codinginfo
 *******************************************************************************************************************
+https://github.com/DopplerHQ/awesome-interview-questions
+
+https://github.com/vasanthk/how-web-works
+
+https://github.com/codecrafters-io/build-your-own-x
+
+https://github.com/yangshun/tech-interview-handbook
+
+********************************************************************************************************************
+
+*******************************************************************************************************************
 https://www.linkedin.com/pulse/how-read-large-file-java-omar-ismail/
 
 https://paigeshin1991.medium.com/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6
