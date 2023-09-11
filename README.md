@@ -1,6 +1,111 @@
 # codinginfo
 <html>
 <body style="background-color:powderblue;">
+
+Here are Top 50 problems that most improved my DSA and problem solving skills:
+<h1>TOP LeetCode Problems</h1>
+<p>1. Furthest Building You Can Reach: https://lnkd.in/gup4SjT3</p>
+
+<p>2. Maximum Points You Can Obtain from Cards: https://lnkd.in/g46uuRRY</p>
+
+<p>3. Trim a Binary Search Tree: https://lnkd.in/ggZjxhfB</p>
+
+<p>4. Car Pooling: https://lnkd.in/gHYDuBB3</p>
+
+<p>5. Two Sum: https://lnkd.in/gvmrSsPf</p>
+
+<p>6. Container With Most Water: https://lnkd.in/g3wzbAdt</p>
+
+<p>7. Distribute Coins in Binary Tree: https://lnkd.in/gB5jwdYP</p>
+
+<p>8. Merge Two Sorted Lists: https://lnkd.in/gWiNc4iT</p>
+
+<p>9. Merge k Sorted Lists: https://lnkd.in/gC7XdcYn</p>
+
+<p>10. Group Anagrams: https://lnkd.in/g2ZvQCMt</p>
+
+<p>11. Merge Intervals: https://lnkd.in/gj7mKaC7</p>
+
+<p>12. Rotting Oranges: https://lnkd.in/gQPtGtBE</p>
+
+<p>13. Diameter of Binary Tree: https://lnkd.in/gpgf_bxQ</p>
+
+<p>14. Top K Frequent Elements: https://lnkd.in/gQ7YbpyG</p>
+
+<p>15. Sliding Window Maximum: https://lnkd.in/gPxyzZte</p>
+
+<p>16. Number of Islands: https://lnkd.in/g4SuhAKZ</p>
+
+<p>17. Linked List Cycle II: https://lnkd.in/gvgpiPeb</p>
+
+<p>18. Jump Game II: https://lnkd.in/gi2e6HwH</p>
+
+<p>19. Maximum Subarray: https://lnkd.in/gvXACXww</p>
+
+<p>20. Longest Increasing Path in a Matrix: https://lnkd.in/g832N7kP</p>
+
+<p>21. Trapping Rain Water: https://lnkd.in/gyj3KRzF</p>
+
+<p>22. Reverse Linked List: https://lnkd.in/gFdtXjpp</p>
+
+<p>23. Course Schedule II: https://lnkd.in/g-zYyETQ</p>
+
+<p>24. Sort Colors: https://lnkd.in/gkdR3wW8</p>
+
+<p>25. Implement Trie (Prefix Tree): https://lnkd.in/gAH5a-7M</p>
+
+<p>26. Move Zeroes: https://lnkd.in/g-zKby4V</p>
+
+<p>27. Daily Temperatures: https://lnkd.in/gEDjGxz8</p>
+
+<p>28. Insert Delete GetRandom O(1): https://lnkd.in/gCNhaage</p>
+
+<p>29. Longest Increasing Subsequence: https://lnkd.in/gQa8vA23</p>
+
+<p>30. Populate Next Right Pointers In Each Node II: https://lnkd.in/g_NM2kcb</p>
+
+<p>31. Binary Tree Maximum Path Sum: https://lnkd.in/gsQNe33B</p>
+
+<p>32. Longest Substring Without Repeating Characters: https://lnkd.in/gGUhV_Cm</p>
+
+<p>33. Combination Sum: https://lnkd.in/gE3rVnJi</p>
+
+<p>34. Unique Binary Search Trees II: https://lnkd.in/g8n6wZvP</p>
+
+<p>35. First Bad Version: https://lnkd.in/gm4NqwNY</p>
+
+<p>36. Word Search II: https://lnkd.in/geXH9tc3</p>
+
+<p>37. Task Scheduler: https://lnkd.in/g2JF77Fs</p>
+
+<p>38. Bus Routes: https://lnkd.in/gdXVMMVp</p>
+
+<p>39. Reconstruct Itinerary: https://lnkd.in/ga2KSv4h</p>
+
+<p>40. Maximum Profit in Job Scheduling: https://lnkd.in/gb_qP8vA</p>
+
+<p>41. Cheapest Flights Within K Stops: https://lnkd.in/grHsBbR6</p>
+
+<p>42. Stock Price Fluctuation: https://lnkd.in/g4yuZgQF</p>
+
+<p>43. Subarray Sum Equals K: https://lnkd.in/gbxm_NXC</p>
+
+<p>44. Delete Nodes And Return Forest: https://lnkd.in/g6Xx3uc7</p>
+
+<p>45. Coin Change II: https://lnkd.in/gYhka_-y</p>
+
+<p>46. Clone Graph: https://lnkd.in/gMqAMeSv</p>
+
+<p>47. Rotate Image: https://lnkd.in/gBny5AMK</p>
+
+<p>48. Convert Sorted Array to Binary Search Tree: https://lnkd.in/gT7tm5fJ</p>
+
+<p>49. Process Tasks Using Servers: https://lnkd.in/gMYbjGWB</p>
+
+<p>50. Min Stack: https://lnkd.in/gPCwDHiT</p>
+
+
+
 <h1>LeetCode Link</h1>
 <p>https://protegejj.gitbook.io/algorithm-practice/leetcode</p>
 
