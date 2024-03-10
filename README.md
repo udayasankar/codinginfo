@@ -4,6 +4,7 @@
 
 <h1>Designpatterns and datastructures</h1>
 <p>https://github.com/geekific-official/geekific-youtube</p>
+<h1></h1>
 
 
 <h1>Free Open Source Repos:</h1>
@@ -14,14 +15,14 @@
 <p>5. Front-end specific interview prep guide (39k stars) - https://lnkd.in/gpZpC_ZX</p>
 <p>6. Index of everything you need to learn (17k stars) - https://lnkd.in/gnXrP2fp</p>
 <p>7. Curated list of interview questions (59k stars) - https://lnkd.in/gY-AYpQk</p>
+<h1></h1>
 
-
-Self-Study Resources:
+<h1>Self-Study Resources:</h1>
 <p>1. Leetcode.com - self service platform for algo interviews, I used to pay for a month of pro when I grinded for interviews then cancelled immediately after</p>
 <p>2. Neetcode by Navdeep - youtube channel with tons of high quality content going over coding interviews https://lnkd.in/gh-tbVQr</p>
 <p>3. The Daily Byte by Kevin - newsletter that sends you a daily coding interview questions to help you be consistent https://thedailybyte.dev</p>
 <p>4. Cracking the Coding Interview - Classic book for algo interview prep https://lnkd.in/g4-YN7vB</p>
-
+<h1></h1>
 
 <h1>Here are Top 50 problems that most improved my DSA and problem solving skills:<h1>
 <h1>TOP LeetCode Problems</h1>
