@@ -2,25 +2,28 @@
 <html>
 <body style="background-color:powderblue;">
 
+<h1>Designpatterns and datastructures</h1>
+<p>https://github.com/geekific-official/geekific-youtube</p>
 
-Free Open Source Repos:
-1. Technical interview prep guide (270k stars) - https://lnkd.in/gWnd3n6C
-2. Python algorithm implementations (172k stars) - https://lnkd.in/g7hv9ShZ
-3. Tech Interview handbook of curated materials (101k stars) - https://lnkd.in/gU6kk5eN
-4. Javascript algorithm implementations to learn from (177k stars) - https://lnkd.in/g_AvzzER
-5. Front-end specific interview prep guide (39k stars) - https://lnkd.in/gpZpC_ZX
-6. Index of everything you need to learn (17k stars) - https://lnkd.in/gnXrP2fp
-7. Curated list of interview questions (59k stars) - https://lnkd.in/gY-AYpQk
+
+<h1>Free Open Source Repos:</h1>
+<p>1. Technical interview prep guide (270k stars) - https://lnkd.in/gWnd3n6C</p>
+<p>2. Python algorithm implementations (172k stars) - https://lnkd.in/g7hv9ShZ</p>
+<p>3. Tech Interview handbook of curated materials (101k stars) - https://lnkd.in/gU6kk5eN</p>
+<p>4. Javascript algorithm implementations to learn from (177k stars) - https://lnkd.in/g_AvzzER</p>
+<p>5. Front-end specific interview prep guide (39k stars) - https://lnkd.in/gpZpC_ZX</p>
+<p>6. Index of everything you need to learn (17k stars) - https://lnkd.in/gnXrP2fp</p>
+<p>7. Curated list of interview questions (59k stars) - https://lnkd.in/gY-AYpQk</p>
 
 
 Self-Study Resources:
-1. Leetcode.com - self service platform for algo interviews, I used to pay for a month of pro when I grinded for interviews then cancelled immediately after
-2. Neetcode by Navdeep - youtube channel with tons of high quality content going over coding interviews https://lnkd.in/gh-tbVQr
-3. The Daily Byte by Kevin - newsletter that sends you a daily coding interview questions to help you be consistent https://thedailybyte.dev
-4. Cracking the Coding Interview - Classic book for algo interview prep https://lnkd.in/g4-YN7vB
+<p>1. Leetcode.com - self service platform for algo interviews, I used to pay for a month of pro when I grinded for interviews then cancelled immediately after</p>
+<p>2. Neetcode by Navdeep - youtube channel with tons of high quality content going over coding interviews https://lnkd.in/gh-tbVQr</p>
+<p>3. The Daily Byte by Kevin - newsletter that sends you a daily coding interview questions to help you be consistent https://thedailybyte.dev</p>
+<p>4. Cracking the Coding Interview - Classic book for algo interview prep https://lnkd.in/g4-YN7vB</p>
 
 
-Here are Top 50 problems that most improved my DSA and problem solving skills:
+<h1>Here are Top 50 problems that most improved my DSA and problem solving skills:<h1>
 <h1>TOP LeetCode Problems</h1>
 <p>1. Furthest Building You Can Reach: https://lnkd.in/gup4SjT3</p>
 
