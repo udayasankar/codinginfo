@@ -1,6 +1,14 @@
 # codinginfo
 <html>
 <body style="background-color:powderblue;">
+<table>
+  <th>Description</th>
+  <th>link</th>
+  <tr><td>Abdul Bari's Algorithms Playlist</td><td>https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O</td></tr>
+  <tr><td>William Fiset's Data Structure Playlist</td><td>https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu</td></tr>
+  <tr><td>William Fiset's Graphs Playlist</td><td>https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P</td></tr>
+   <tr><td>Tushar Roy's Dynamic Programming Playlist</td><td>https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr</td></tr>
+</table>
 
 <h1>Designpatterns and datastructures</h1>
 <p>https://github.com/geekific-official/geekific-youtube</p>
